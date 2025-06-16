@@ -1,6 +1,6 @@
 # SoulPeg Frontend
 
-![SoulPeg Logo](https://via.placeholder.com/200x80/1a1a1a/ffffff?text=SoulPeg)
+![SoulPeg Logo](./public/logo-soulpeg.png)
 
 **Secure, transparent, and sustainable yield generation on Binance Smart Chain**
 
