@@ -1,0 +1,17 @@
+/* --- RainbowKit minimal override ---------------------------------
+   Убираем серый/blur‑фон, оставляем саму модалку по центру. -------- */
+
+[data-rk] .rainbowkit-connect-modal__overlay {
+  /* без затемнения и blur‑эффекта */
+  background: transparent !important;
+  backdrop-filter: none !important;
+
+  /* если хотите, чтобы клики «проходили сквозь» оверлей,
+     раскомментируйте строку ниже */
+  /* pointer-events: none !important; */
+}
+
+/* подстраховка: модалка остаётся поверх всего */
+[data-rk] {
+  --rk-z-index: 9999 !important;
+}
