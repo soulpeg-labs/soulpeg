@@ -1,6 +1,6 @@
 # SoulPeg Frontend
 
-![SoulPeg Logo](./public/logo-soulpeg.png)
+<img src="./public/logo-soulpeg.png" alt="SoulPeg Logo" width="120" height="120">
 
 **Secure, transparent, and sustainable yield generation on Binance Smart Chain**
 
